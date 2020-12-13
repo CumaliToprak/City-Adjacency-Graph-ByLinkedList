@@ -1,0 +1,226 @@
+<---sehirler.txt dosyadan okunan sehir bilgileri--->
+   Plaka Kodu : 1 
+   Sehir Ismi : Adana -----> 38 -----> 46 -----> 51 
+   Bolge Ismi : AK
+   Komsu Sayisi : 3
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 3 
+   Sehir Ismi : Afyon -----> 20 -----> 26 -----> 64 
+   Bolge Ismi : EG
+   Komsu Sayisi : 3
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 14 
+   Sehir Ismi : Bolu -----> 26 
+   Bolge Ismi : KA
+   Komsu Sayisi : 1
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 20 
+   Sehir Ismi : Denizli -----> 3 -----> 64 
+   Bolge Ismi : EG
+   Komsu Sayisi : 2
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 21 
+   Sehir Ismi : Diyarbakir -----> 23 -----> 44 -----> 47 -----> 63 
+   Bolge Ismi : GA
+   Komsu Sayisi : 4
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 22 
+   Sehir Ismi : Edirne -----> 59 
+   Bolge Ismi : MA
+   Komsu Sayisi : 1
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 23 
+   Sehir Ismi : Elazig -----> 21 -----> 44 -----> 62 
+   Bolge Ismi : DA
+   Komsu Sayisi : 3
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 26 
+   Sehir Ismi : Eskisehir -----> 3 -----> 14 
+   Bolge Ismi : IA
+   Komsu Sayisi : 2
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 28 
+   Sehir Ismi : Giresun -----> 58 -----> 61 
+   Bolge Ismi : KA
+   Komsu Sayisi : 2
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 38 
+   Sehir Ismi : Kayseri -----> 1 -----> 46 -----> 51 -----> 58 -----> 66 
+   Bolge Ismi : IA
+   Komsu Sayisi : 5
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 44 
+   Sehir Ismi : Malatya -----> 21 -----> 23 -----> 46 -----> 58 
+   Bolge Ismi : DA
+   Komsu Sayisi : 4
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 46 
+   Sehir Ismi : Kahramanmaras -----> 1 -----> 38 -----> 44 -----> 58 
+   Bolge Ismi : AK
+   Komsu Sayisi : 4
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 47 
+   Sehir Ismi : Mardin -----> 21 -----> 56 -----> 63 
+   Bolge Ismi : GA
+   Komsu Sayisi : 3
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 51 
+   Sehir Ismi : Nigde -----> 1 -----> 38 
+   Bolge Ismi : IA
+   Komsu Sayisi : 2
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 56 
+   Sehir Ismi : Siirt -----> 47 -----> 65 
+   Bolge Ismi : GA
+   Komsu Sayisi : 2
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 57 
+   Sehir Ismi : Sinop 
+   Bolge Ismi : KA
+   Komsu Sayisi : 0
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 58 
+   Sehir Ismi : Sivas -----> 28 -----> 38 -----> 44 -----> 46 -----> 60 -----> 66 
+   Bolge Ismi : IA
+   Komsu Sayisi : 6
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 59 
+   Sehir Ismi : Tekirdag -----> 22 
+   Bolge Ismi : MA
+   Komsu Sayisi : 1
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 60 
+   Sehir Ismi : Tokat -----> 58 -----> 66 
+   Bolge Ismi : KA
+   Komsu Sayisi : 2
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 61 
+   Sehir Ismi : Trabzon -----> 28 
+   Bolge Ismi : KA
+   Komsu Sayisi : 1
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 62 
+   Sehir Ismi : Tunceli -----> 23 
+   Bolge Ismi : DA
+   Komsu Sayisi : 1
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 63 
+   Sehir Ismi : Sanliurfa -----> 21 -----> 47 
+   Bolge Ismi : GA
+   Komsu Sayisi : 2
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 64 
+   Sehir Ismi : Usak -----> 3 -----> 20 
+   Bolge Ismi : EG
+   Komsu Sayisi : 2
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 65 
+   Sehir Ismi : Van -----> 56 
+   Bolge Ismi : DA
+   Komsu Sayisi : 1
+	^
+	| |
+	| |
+	| |
+	v
+   Plaka Kodu : 66 
+   Sehir Ismi : Yozgat -----> 38 -----> 58 -----> 60 
+   Bolge Ismi : IA
+   Komsu Sayisi : 3
+	^
+	| |
+	| |
+	| |
+	v

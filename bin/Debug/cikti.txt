@@ -1,0 +1,2 @@
+
+	Sehirler txt dosyasi acilamadi. sehirler.txt dosyasi mevcut olmayabilir.
